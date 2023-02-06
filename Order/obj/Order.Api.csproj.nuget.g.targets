@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)system.security.permissions\7.0.0\buildTransitive\netcoreapp2.0\System.Security.Permissions.targets" Condition="Exists('$(NuGetPackageRoot)system.security.permissions\7.0.0\buildTransitive\netcoreapp2.0\System.Security.Permissions.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.security.cryptography.protecteddata\7.0.0\buildTransitive\netcoreapp2.0\System.Security.Cryptography.ProtectedData.targets" Condition="Exists('$(NuGetPackageRoot)system.security.cryptography.protecteddata\7.0.0\buildTransitive\netcoreapp2.0\System.Security.Cryptography.ProtectedData.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.configuration.configurationmanager\7.0.0\buildTransitive\netcoreapp2.0\System.Configuration.ConfigurationManager.targets" Condition="Exists('$(NuGetPackageRoot)system.configuration.configurationmanager\7.0.0\buildTransitive\netcoreapp2.0\System.Configuration.ConfigurationManager.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.primitives\7.0.0\buildTransitive\netcoreapp2.0\Microsoft.Extensions.Primitives.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.primitives\7.0.0\buildTransitive\netcoreapp2.0\Microsoft.Extensions.Primitives.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.abstractions\7.0.0\buildTransitive\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.abstractions\7.0.0\buildTransitive\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration\7.0.0\buildTransitive\netcoreapp2.0\Microsoft.Extensions.Configuration.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration\7.0.0\buildTransitive\netcoreapp2.0\Microsoft.Extensions.Configuration.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.visualstudio.azure.containers.tools.targets\1.10.9\build\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.visualstudio.azure.containers.tools.targets\1.10.9\build\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets')" />
+  </ImportGroup>
+</Project>

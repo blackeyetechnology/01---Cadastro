@@ -1,0 +1,13 @@
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\bin\Debug\netstandard2.0\Order.Infra.deps.json
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\bin\Debug\netstandard2.0\Order.Infra.dll
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\bin\Debug\netstandard2.0\Order.Infra.pdb
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\bin\Debug\netstandard2.0\Order.Domain.dll
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\bin\Debug\netstandard2.0\Order.Domain.pdb
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.csproj.AssemblyReference.cache
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.AssemblyInfoInputs.cache
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.AssemblyInfo.cs
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.csproj.CoreCompileInputs.cache
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.csproj.CopyComplete
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.dll
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Infra\obj\Debug\netstandard2.0\Order.Infra.pdb

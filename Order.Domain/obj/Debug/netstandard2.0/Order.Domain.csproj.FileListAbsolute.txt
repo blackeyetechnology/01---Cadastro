@@ -1,0 +1,10 @@
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.deps.json
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.dll
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.pdb
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.AssemblyReference.cache
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfo.cs
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.dll
+C:\Temp\Blackeye Tech\Cadastro\API\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.pdb
